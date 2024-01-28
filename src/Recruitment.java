@@ -5,4 +5,7 @@ public class Recruitment {
 
     // ingo being gathered
 
+    // recruitment class uodated
+
+
 }
