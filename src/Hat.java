@@ -7,4 +7,6 @@ public class Hat {
 
     // more lines written
 
+    // more lines updated
+
 }
